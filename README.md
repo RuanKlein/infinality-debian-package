@@ -50,6 +50,8 @@ sudo dpkg -i \
 sudo reboot
 ```
 
+Tweak your settings in `/etc/profile.d/infinality-settings.sh`.
+
 ## License
 
 Hmmm, I don't know :-D.  I find nothing in Chen's repo.

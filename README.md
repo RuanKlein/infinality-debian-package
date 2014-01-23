@@ -50,7 +50,10 @@ sudo dpkg -i \
 sudo reboot
 ```
 
-Tweak your settings in `/etc/profile.d/infinality-settings.sh`.
+Then tweak your settings:
+
+* `bash /etc/fonts/infinality/infctl.sh setstyle`
+* Edit `/etc/profile.d/infinality-settings.sh`.
 
 ## License
 

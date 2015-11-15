@@ -1,6 +1,6 @@
 # Infinality package for Debian
 
-This repo is a fork of [Xiao-Long Chen](https://github.com/chenxiaolong)'s
+This repo is a fork of [Andrew Gunnerson](https://github.com/chenxiaolong)'s
 [repo](https://github.com/chenxiaolong/Debian-Packages), only to add
 installation instruction.
 

@@ -57,4 +57,4 @@ Then tweak your settings:
 
 ## License
 
-Hmmm, I don't know :-D.  I find nothing in Chen's repo.
+Hmmm, I don't know.  I found nothing in the original repo.

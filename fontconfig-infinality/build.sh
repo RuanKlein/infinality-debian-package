@@ -1,6 +1,7 @@
 #!/bin/bash
 
-INFINALITY="http://www.infinality.net/fedora/linux/zips/fontconfig-infinality-1-20130104_1.tar.bz2"
+# INFINALITY="http://www.infinality.net/fedora/linux/zips/fontconfig-infinality-1-20130104_1.tar.bz2"
+INFINALITY="http://distro.ibiblio.org/slitaz/sources/packages-cooking/f/fontconfig-infinality-1-20130104_1.tar.bz2"
 
 if [ ! -f ${INFINALITY##*/} ]; then
   wget "${INFINALITY}"
